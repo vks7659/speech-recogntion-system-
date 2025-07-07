@@ -54,3 +54,7 @@ void processCommand(int cmd) {
       break;
   }
 }
+
+#output
+
+![Image](https://github.com/user-attachments/assets/3986ea6d-6f04-4dc7-a624-fa644d33e49e)
